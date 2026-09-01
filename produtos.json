@@ -1,0 +1,29 @@
+{
+  "produtos_nacionais": [
+    {
+      "sabor": "",
+      "sku": "",
+      "codigo_produto": "",
+      "tipo_de_op": "",
+      "codigo_de_barras": ""
+    }
+  ],
+  "produtos_exportacao": [
+    {
+      "sabor": "",
+      "sku": "",
+      "codigo_produto": "",
+      "tipo_de_op": "",
+      "codigo_de_barras": ""
+    }
+  ],
+  "produtos_beneficiados": [
+    {
+      "sabor": "",
+      "sku": "",
+      "codigo_produto": "",
+      "tipo_de_op": "",
+      "codigo_de_barras": ""
+    }
+  ]
+}
