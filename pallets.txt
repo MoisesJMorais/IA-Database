@@ -8,7 +8,7 @@
         "pallet_900_ml": ["Sidel"],
         "pallet_1,5_lt": ["KHS 1"],
         "pallet_3_lt": ["Zegla 1", "Zegla 2"],
-		    "pallet_5_lt": ["Zegla 1", "Zegla 2"]
+		"pallet_5_lt": ["Zegla 1", "Zegla 2"]
       },
       "qtd_por_pallet": [
         { "sku": "200 ML", "pallet_completo": "3.960 und", "qtd_por_camada": "396 und", "fardos_por_camada": "33 fardos", "qtd_por_fardo": "12 und" }
