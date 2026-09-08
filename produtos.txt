@@ -11,18 +11,27 @@
       "produtos": [
         {
           "nome": "SUCO DE LARANJA INTEGRAL CX 200 ML C/ TAMPA",
-          "linha_de_producao": "Compact Flex", "codigo_produto": "1010.200.000101",
-          "tipo_op": "PA (Produto acabado)", "destino": "Mercado nacional", "codigo_barras": "7898953148848"
+          "linha_de_producao": "Compact Flex",
+          "codigo_produto": "1010.200.000101",
+          "tipo_op": "PA (Produto acabado)",
+          "destino": "Mercado nacional",
+          "codigo_barras": "7898953148848"
         },
         {
           "nome": "SUCO DE LARANJA INTEGRAL PET 300 ML",
-          "linha_de_producao": "KHS 2", "codigo_produto": "1010.200.000035",
-          "tipo_op": "PA (Produto acabado)", "destino": "Mercado nacional", "codigo_barras": "7898953148701"
+          "linha_de_producao": "KHS 2",
+          "codigo_produto": "1010.200.000035",
+          "tipo_op": "PA (Produto acabado)",
+          "destino": "Mercado nacional",
+          "codigo_barras": "7898953148701"
         },
         {
           "nome": "SUCO DE LARANJA INTEGRAL PET 900 ML",
-          "linha_de_producao": "Sidel", "codigo_produto": "1010.200.000002",
-          "tipo_op": "PA (Produto acabado)", "destino": "Mercado nacional", "codigo_barras": "7898953148169"
+          "linha_de_producao": "Sidel",
+          "codigo_produto": "1010.200.000002",
+          "tipo_op": "PA (Produto acabado)",
+          "destino": "Mercado nacional",
+          "codigo_barras": "7898953148169"
         },
       ]
     }
