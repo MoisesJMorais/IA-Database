@@ -1,0 +1,28 @@
+{
+  "produtos": {
+    "catalogo_geral": {
+      "descricao": "Informações sobre os cadastros de produtos nos sistemas integrados da indústria.",
+      "configuracao": {
+        "total_produtos_cadastrados": 2,
+        "tipos_op_disponiveis": ["PA (Produto acabado)", "PI (Produto intermediário)"],
+        "destinos_principais": ["Nacional", "Exportação", "Beneficiado"]
+      },
+      "itens": [
+        {
+          "nome": "SUCO",
+          "codigo_produto": "PRD-001",
+          "tipo_op": "Produção",
+          "destino": "Mercado Interno",
+          "codigo_barras": "7891234567890"
+        },
+        {
+          "nome": "Produto Exemplo B",
+          "codigo_produto": "PRD-002",
+          "tipo_op": "Industrialização",
+          "destino": "Exportação",
+          "codigo_barras": "7890987654321"
+        }
+      ]
+    }
+  }
+}
