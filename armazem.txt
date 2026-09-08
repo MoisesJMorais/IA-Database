@@ -6,8 +6,8 @@
         "capacidade_total_pallets_camara_nova": 1785,
         "baias_de_25_pallets": 3,
         "baias_de_30_pallets": 57,
-	"porta_05": "07B01 ao 07B30",
-	"porta_06": "07A01 ao 07A30"
+		"porta_05": "07B01 ao 07B30",
+		"porta_06": "07A01 ao 07A30"
       },
       "baias": [
         { "baia": "07A01", "capacidade": 30, "andares": 5, "qtd_por_andar": 6, "acesso": "somente_porta_06" },
@@ -77,10 +77,10 @@
       "descricao": "Baias 06A01 ao 06A26 e 06B01 ao 06B26",
       "configuracao": {
         "capacidade_total_pallets_camara_antiga": 576,
-	"baias_de_12_pallets": 40,
+		"baias_de_12_pallets": 40,
         "baias_de_8_pallets": 12,
-	"porta_02": "06A01 ao 06A26",
-	"porta_03": "06B01 ao 06B26"
+		"porta_02": "06A01 ao 06A26",
+		"porta_03": "06B01 ao 06B26"
       },
       "baias": [
         { "baia": "06A01", "capacidade": 12, "andares": 3, "qtd_por_andar": 4, "acesso": "somente_porta_02"  },
