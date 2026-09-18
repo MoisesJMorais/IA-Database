@@ -15,7 +15,7 @@
 
     "cursos_e_certificacoes": [
       {
-        "certificado_emitido_por": "Instituto Federal de Educação, Ciência e Tecnologia",
+        "certificado_emitido_por": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul",
         "certificacoes": [
           {"curso": "Gestor de Microempresa", "carga_horaria": "200 Horas"},
           {"curso": "Assistente de Logística", "carga_horaria": "200 Horas"},
