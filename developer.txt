@@ -10,20 +10,17 @@
 
     "formacao_academica": {
       "diploma_emitido_por": "Faculdade de Tecnologia e Ciências do Norte do Paraná",
-      "graduacoes": [
-        "Bacharelado em Administração",
-        "Tecnólogo em Gestão da Qualidade"
-      ]
+      "graduacoes": ["Bacharelado em Administração", "Tecnólogo em Gestão da Qualidade"]
     },
 
     "cursos_e_certificacoes": [
       {
         "certificado_emitido_por": "Instituto Federal de Educação, Ciência e Tecnologia",
         "certificacoes": [
-          "Gestor de Microempresa": "200 Horas",
-          "Assistente de Logística": "200 Horas",
-          "Assistente de Serviços em Comércio Exterior": "200 Horas",
-          "Instalador e Reparador de Redes de Computadores": "200 Horas"
+          {"curso": "Gestor de Microempresa", "carga_horaria": "200 Horas"},
+          {"curso": "Assistente de Logística", "carga_horaria": "200 Horas"},
+          {"curso": "Assistente de Serviços em Comércio Exterior", "carga_horaria": "200 Horas"},
+          {"curso": "Instalador e Reparador de Redes de Computadores", "carga_horaria": "200 Horas"}
         ]
       }
     ],
