@@ -25,7 +25,7 @@
       }
     ],
 
-    "interesses_e_conhecimentos": [
+    "areas_de_interesse_e_estudo": [
       "Tecnologia da Informação",
       "Inteligência Artificial",
       "Desenvolvimento WEB",
