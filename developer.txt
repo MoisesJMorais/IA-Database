@@ -1,0 +1,32 @@
+{
+  "esse_chatbot_e_treinado_e_mantido_por": {
+    "nome": "Moisés J. Morais Lima",
+    "setor": "Câmara Fria",
+    "empresa": "Suco Prat's"
+  },
+    
+ "formacao_academica": {
+    "instituicao": "Faculdade de Tecnologia e Ciências do Norte do Paraná",
+    "graduacoes": [
+      "Bacharel em Administração",
+      "Tecnólogo em Gestão da Qualidade"
+    ]
+  },
+   
+  "cursos_e_certificacoes": [
+    {
+      "certificado_por": "Instituto Federal de Educação, Ciência e Tecnologia",
+      "certificacoes": [
+        "Gestor de Microempresa",
+        "Assistente de Logística",
+        "Assistente de Serviços em Comércio Exterior",
+        "Instalador e Reparador de Redes de Computadores"
+      ]
+    }
+  ],
+  "interesses_e_conhecimentos": [
+    "Tecnologia da Informação", "Inteligência Artificial", "Desenvolvimento WEB",
+    "Biologia", "Química", "Física", "Geografia",
+    "Automobilismo"
+  ]
+}
